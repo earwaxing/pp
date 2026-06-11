@@ -1,7 +1,8 @@
 # Privacy Policy — Armani
 
 **Last Updated:** June 11, 2026
-**Scope:** This Privacy Policy applies exclusively to the Armani Discord bot and its operation within the Heisei server. Armani is a private, closed-deployment bot and is not available to the public.
+
+This Privacy Policy applies exclusively to the Armani Discord bot and its operation within the Heisei server. Armani is a private, closed-deployment bot and is not available to the public.
 
 ---
 
