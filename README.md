@@ -1,14 +1,14 @@
 # Privacy Policy — Armani
 
-**Last Updated:** June 11, 2026
+**Last Updated:** September 3, 2026
 
-This Privacy Policy applies exclusively to the Armani Discord bot and its operation within the Heisei server. Armani is a private, closed-deployment bot and is not available to the public.
+This Privacy Policy applies exclusively to the Armani Discord bot and its operation within the idfk server. Armani is a private, closed-deployment bot and is not available to the public.
 
 ---
 
 ## 1. Overview
 
-Armani is a private Discord bot developed for and operated solely within the Heisei community. We are committed to handling all user data with transparency, care, and the minimum scope necessary for each feature to function. This document describes what data Armani collects, why it is collected, how long it is retained, and how you can exercise control over your data.
+Armani is a private Discord bot developed for and operated solely within the idfk community. We are committed to handling all user data with transparency, care, and the minimum scope necessary for each feature to function. This document describes what data Armani collects, why it is collected, how long it is retained, and how you can exercise control over your data.
 
 ---
 
@@ -115,7 +115,7 @@ Armani integrates with a number of external platforms to fulfill on-demand user 
 
 ## 5. How We Use Your Data
 
-All data collected by Armani is used **exclusively** to operate its features within Heisei. Specifically:
+All data collected by Armani is used **exclusively** to operate its features within idfk. Specifically:
 
 - User and guild identifiers are used to route data to the correct records.
 - Activity statistics are used solely to calculate rankings, levels, and leaderboard positions.
@@ -146,7 +146,7 @@ Users can delete certain categories of their own data directly through bot comma
 
 ### 6.3 Manual Deletion Requests
 
-Users may request the immediate and permanent deletion of all personally identifiable data associated with their Discord account by joining the support server at **https://discord.gg/heisei** and contacting the development team. Requests will be processed in a timely manner.
+Users may request the immediate and permanent deletion of all personally identifiable data associated with their Discord account by joining the support server at **https://discord.gg/idfk** and contacting the development team. Requests will be processed in a timely manner.
 
 Note: Some moderation records (e.g., bans, punishment logs) may be retained by server administrators independently of Armani's database for legal or community safety reasons, even following a data deletion request.
 
@@ -172,10 +172,10 @@ This Privacy Policy may be updated periodically to reflect changes to Armani's f
 
 ## 10. Contact
 
-For privacy-related inquiries, data deletion requests, or any questions regarding this policy, please reach out through the Heisei support server:
+For privacy-related inquiries, data deletion requests, or any questions regarding this policy, please reach out through the idfk support server:
 
-**Support Server:** https://discord.gg/heisei
+**Support Server:** https://discord.gg/idfk
 
 ---
 
-*Armani is a private bot operated for the Heisei community. This policy governs data handling within that context only.*
+*Armani is a private bot operated for the idfk community. This policy governs data handling within that context only.*
